@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_navigation_all"
+        android:icon="@drawable/tab_all_devices"
+        android:title="@string/bottom_navigation_all_devices" />
+
+    <item
+        android:id="@+id/bottom_navigation_mi_band"
+        android:icon="@drawable/tab_mi_band"
+        android:title="@string/bottom_navigation_mi_band" />
+
+    <item
+        android:id="@+id/bottom_navigation_heart_rate"
+        android:icon="@drawable/tab_heart_rate"
+        android:title="@string/bottom_navigation_heart_rate" />
+
+</menu>

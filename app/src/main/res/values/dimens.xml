@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="space_small">8dp</dimen>
+
+    <dimen name="text_normal">16sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+
+</resources>
