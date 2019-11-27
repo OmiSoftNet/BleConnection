@@ -22,10 +22,13 @@ Android developer at [OmiSoft](https://omisoft.net)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
+[1]: http://www.twitter.com/omisoftnet
 [2]: http://www.facebook.com/omisoftnet
 
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 
 ## License
