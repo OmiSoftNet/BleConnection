@@ -1,3 +1,6 @@
+
+<img src="./demo/android-ble.png" alt="title image">
+
 ## Android Bluetooth Low Energy App
 
 This repository contains a detailed sample app that connects to a BLE device in Android (Kotlin).
@@ -14,8 +17,16 @@ The sample app is using next libraries and frameworks:
 If you have any suggestions or questions feel free to make a Pull Request or contact us!
 
 ## Author
-#### Dmytro Lisovy
+#### Dmytro Lisovyi
 Android developer at [OmiSoft](https://omisoft.net)
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+[![alt text][2.1]][2]
+
+[2]: http://www.facebook.com/omisoftnet
+
+[2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 
 ## License
 Android Bluetooth Low Energy App is released under the MIT license.  
