@@ -82,7 +82,7 @@ class DeviceManager(context: Context) {
      * @see DeviceType
      */
     fun startSearchDevices(deviceType: DeviceType, devicesCallback: (BluetoothDevice) -> Unit) {
-        stopScanDevices()
+        stopSearchDevices()
 
         val deviceFilter = ScanFilter.Builder()
                 .apply {
@@ -127,7 +127,7 @@ class DeviceManager(context: Context) {
     /**
      * Stop Bluetooth LE scanning process
      */
-    fun stopScanDevices() {
+    fun stopSearchDevices() {
         bluetoothAdapter?.isDiscovering?.let {
             bluetoothAdapter?.cancelDiscovery()
         }

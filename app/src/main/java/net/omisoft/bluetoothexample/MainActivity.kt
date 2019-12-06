@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity(), BleActivity {
     }
 
     override fun onDeviceClicked(device: BluetoothDevice, deviceType: DeviceType) {
-        deviceManager.stopScanDevices()
+        deviceManager.stopSearchDevices()
         supportFragmentManager.showFragment(R.id.container, DeviceConnectionFragment.newInstance(deviceType, device))
     }
 
